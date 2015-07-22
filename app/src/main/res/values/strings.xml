@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CPMX6</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_item_detail">ItemDetailActivity</string>
+</resources>
